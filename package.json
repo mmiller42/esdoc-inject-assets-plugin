@@ -1,6 +1,6 @@
 {
   "name": "esdoc-inject-assets-plugin",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "ESDoc plugin for adding custom stylesheets and scripts to the template.",
   "main": "lib/index.js",
   "scripts": {
